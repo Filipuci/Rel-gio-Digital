@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="LLM" width="60%" alt="<code>Relógio Digital</code>-logo">
-</p>
-<p align="center">
-    <h1 align="center">Relógio Digital</h1>
+    <h1 align="center"><h1><code>Relógio Digital</code></h1>
 </p>
 <p align="center">
     <em><code>Um projeto simples de relógio digital utilizando HTML, CSS e JavaScript.</code></em>

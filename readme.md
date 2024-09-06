@@ -60,11 +60,16 @@ Este é um projeto simples de relógio digital. Utiliza HTML, CSS e JavaScript p
     │   └── js
     ├── index.html
     └── README.md
+```
 
 ## 🧩 Módulos
-<details closed><summary>.</summary>
-Arquivo	Resumo
-index.html	Contém o código HTML para o layout do relógio digital.
-style.css	Define o estilo e a aparência do relógio digital.
-script.js	Contém a lógica para atualizar a hora exibida.
+
+<details closed><summary>Arquivos</summary>
+
+| Arquivo       | Resumo                                                    |
+| ------------- | -------------------------------------------------------- |
+| [index.html](index.html) | Contém o código HTML para o layout do relógio digital. |
+| [style.css](assets/css/style.css) | Define o estilo e a aparência do relógio digital.    |
+| [script.js](assets/js/script.js) | Contém a lógica para atualizar a hora exibida.         |
+
 </details>

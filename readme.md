@@ -2,7 +2,7 @@
   <img src="LLM" width="60%" alt="<code>Relógio Digital</code>-logo">
 </p>
 <p align="center">
-    <h1 align="center"><code>Relógio Digital</code></h1>
+    <h1 align="center">Relógio Digital</h1>
 </p>
 <p align="center">
     <em><code>Um projeto simples de relógio digital utilizando HTML, CSS e JavaScript.</code></em>
@@ -63,3 +63,11 @@ Este é um projeto simples de relógio digital. Utiliza HTML, CSS e JavaScript p
     │   └── js
     ├── index.html
     └── README.md
+
+## 🧩 Módulos
+<details closed><summary>.</summary>
+Arquivo	Resumo
+index.html	Contém o código HTML para o layout do relógio digital.
+style.css	Define o estilo e a aparência do relógio digital.
+script.js	Contém a lógica para atualizar a hora exibida.
+</details>
